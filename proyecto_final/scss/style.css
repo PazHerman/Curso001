@@ -1,7 +1,7 @@
 .navbar_style {
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
-  background-color: #0BB3D9; }
+  background-color: #d90b0b; }
 
 .nav-link:hover {
   border-bottom: 3p solid white;
@@ -25,14 +25,14 @@ h2 {
   font-size: 40px; }
 
 .navbar_style ul li a:hover {
-  color: #025373 !important;
+  color: #580408 !important;
   border-bottom: 1px solid white; }
 
 .navbar-nav .nav-link {
   color: white !important; }
 
 .footer_style {
-  background-color: #0BB3D9;
+  background-color: #d90b0b;
   color: white;
   font-size: 10px; }
 
@@ -57,10 +57,10 @@ h2 {
   font-size: 20px; }
 
 .btn-primary {
-  background-color: #0BB3D9 !important; }
+  background-color: #d90b0b !important; }
 
 .btn-primary:hover {
-  background-color: #025373 !important;
+  background-color: #730202 !important;
   transition: 0.5s; }
 
 /* GALERIA */
